@@ -6,6 +6,8 @@ Implementation of <a href="https://arxiv.org/abs/2205.01917">CoCa, Contrastive C
 
 This repository also chooses to adopt the specific transformer architecture from <a href="https://arxiv.org/abs/2204.02311">PaLM</a>, for both the unimodal and multimodal transformers as well as the cross attention blocks (parallel SwiGLU feedforwards)
 
+<a href="https://youtu.be/pwSnC8jlh50?t=295">Yannic Kilcher presentation</a>
+
 ## Install
 
 ```bash
